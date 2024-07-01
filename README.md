@@ -1,7 +1,7 @@
-@autor: Helton Alves Sá
+@autor: Helton Alves Sá <br>
         João Pedro de Alcântara Lima
 
-@contato: helton.alves@discente.ufma.br; <br> https://github.com/Booogiemain/MDAE
+@contato: helton.alves@discente.ufma.br; https://github.com/Booogiemain/MDAE <br>
          joao.alcantara@discente.ufma.br; https://github.com/joaopedroalcn/Electricity-Interruptions-in-Distribution-Networks/tree/master
 
 @data da última versão: 30/06/2024
