@@ -8,6 +8,8 @@
 
 @versão: 2.0
 
+changelog: Adição dos gráficos requisitados e do método de aprendizado não supervisionado. 
+
 dataset: https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89d1f5a56/resource/cc091bb8-b308-46b2-98ec-c2fd58e7194b/download/interrupcoes-energia-eletrica-2024.csv
 
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
