@@ -1,4 +1,4 @@
-@autor: Helton Alves Sá <br>
+@autores: Helton Alves Sá <br>
         João Pedro de Alcântara Lima
 
 @contato: helton.alves@discente.ufma.br; https://github.com/Booogiemain/MDAE <br>
@@ -16,9 +16,7 @@ dataset: https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89
 
 @Copyright/License
 
-Este material é resultado de um trabalho acadêmico para a disciplina MINERAÇÃO DE DADOS APLICADA À ENGENHARIA, sobre a orientação do professor Dr. THALES LEVI AZEVEDO VALENTE, semestre letivo 2024.1, curso Engenharia da Computação, na Universidade Federal do Maranhão
-
-(UFMA). Todo o material sob esta licença é software livre: pode ser usado para fins acadêmicos e comerciais sem nenhum custo. Não há papelada, nem royalties, nem restrições de "copyleft" do tipo GNU. Ele é licenciado sob os termos da licença MIT reproduzida abaixo e, portanto, é compatível com GPL e também se qualifica como software de código aberto. E de domínio público. Os detalhes legais estão abaixo. O espírito desta licença é que você é livre para usar este material para qualquer finalidade, sem nenhum custo. O único requisito é que, se você usá-los, nos dê crédito.
+Este material é resultado de um trabalho acadêmico para a disciplina MINERAÇÃO DE DADOS APLICADA À ENGENHARIA, sobre a orientação do professor Dr. THALES LEVI AZEVEDO VALENTE, semestre letivo 2024.1, curso Engenharia da Computação, na Universidade Federal do Maranhão(UFMA). Todo o material sob esta licença é software livre: pode ser usado para fins acadêmicos e comerciais sem nenhum custo. Não há papelada, nem royalties, nem restrições de "copyleft" do tipo GNU. Ele é licenciado sob os termos da licença MIT reproduzida abaixo e, portanto, é compatível com GPL e também se qualifica como software de código aberto. E de domínio público. Os detalhes legais estão abaixo. O espírito desta licença é que você é livre para usar este material para qualquer finalidade, sem nenhum custo. O único requisito é que, se você usá-los, nos dê crédito.
 
 Copyright © 2024 Educational Material
 
